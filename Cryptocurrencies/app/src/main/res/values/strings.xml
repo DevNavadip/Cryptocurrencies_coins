@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cryptocurrencies</string>
+    <string name="no_data_found">No data found</string>
+    <string name="internet_error">No internet connection</string>
+    <string name="something_went_wrong">Something went wrong.\nplease try again.</string>
+    <string name="cryptocurrency">Cryptocurrency</string>
+    <string name="price">Price</string>
+    <string name="_24_h">24H</string>
+</resources>
